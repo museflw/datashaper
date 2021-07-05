@@ -23,4 +23,4 @@ jobs:
           # Filepath of the project to be packaged, relative to root of repository
           PROJECT_FILE_PATH: DataShaper.Pagination/DataShaper.Pagination.csproj
           # API key to authenticate with NuGet server
-          NUGET_KEY: ${{secrets.NUGET_KEY}
+          NUGET_KEY: ${{secrets.NUGET_KEY}}
